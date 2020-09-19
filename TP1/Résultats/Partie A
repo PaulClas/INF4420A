@@ -1,0 +1,21 @@
+**Question 1**
+a) voir screen
+
+b) Cette valeur indique que chaque symbole issu du programme "texte" peut être 
+codé avec en moyenne 3,95 bits
+
+c) Entropie = 1/27*27*log2(1/27) = -4,75
+Il me semble qu'il faut prendre le négatif de ça en vrai, mais c'est cette
+formule dans le cours
+
+d) (c) donne l'entropie maximale d'une source de texte, donc j'aurais dit que 
+le rapport a/c donne le taux de compression possible qu'on peut appliquer aux
+textes issus du programme "texte".
+
+
+e) La différence d'entropie entre les textes générés par "texte" et "lettre"
+n'est pas significative (0,2).
+
+f) 
+
+
